@@ -4,7 +4,7 @@
 - Analyzed global data job trends, salaries, and role-based demand
 - Built interactive Power BI visuals with slicers and drill-through
 - Used DAX to calculate key salary and job metrics
-- 📂 Folder: `Data_Jobs_Market_Analysis`
+- 📂 Folder: `Data_Jobs_Market_Analysis_v2`
 
 ## 📊 Data Jobs – Skills & Salary Insights Dashboard
 - Analyzed skill demand and salary distribution across data roles
