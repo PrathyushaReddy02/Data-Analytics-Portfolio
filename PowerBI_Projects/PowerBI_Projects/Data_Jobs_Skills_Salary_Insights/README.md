@@ -29,3 +29,5 @@ Built an interactive Power BI dashboard to analyze job demand, required skills, 
 ## 📷 Dashboard Preview
 ![Dashboard Overview](dashboard_overview.png)
 
+🔗 Download PBIX file:  
+[Click here to download](https://drive.google.com/file/d/18RQtJoYEVySNJA0PR0QEWUrZXklk_Dut/view?usp=drive_link)
