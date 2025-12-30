@@ -1,3 +1,6 @@
 # ⚡ Power BI Projects
 
-This folder contains Power BI dashboards showcasing data analysis, DAX, and interactive reporting.
+### 📊 Data Jobs Market Analysis Dashboard
+- Analyzed global data job trends, salaries, and role-based demand
+- Built interactive Power BI visuals with slicers and drill-through
+- Used DAX to calculate key salary and job metrics
