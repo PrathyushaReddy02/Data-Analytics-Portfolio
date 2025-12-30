@@ -27,4 +27,8 @@ Developed an interactive Power BI dashboard to analyze the global data job marke
 - Salary comparison visuals
 
 ## 📷 Dashboard Preview
-(Add screenshots here)
+
+![Data Jobs Overview](overview_dashboard.png)
+
+![Job Title Drill Through](job_title_drillthrough.png)
+
