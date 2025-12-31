@@ -24,11 +24,5 @@ Each project demonstrates the use of Tableau for analyzing real-world datasets a
 
 📁 Folder: Tableau_Projects/Sales_Dashboard  
 
----
 
-### 🛠 Tools & Skills Used
-- Tableau Desktop & Tableau Public  
-- Interactive dashboards & filters  
-- Data storytelling & visual design  
-- Business and KPI-driven analysis
 
